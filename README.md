@@ -1,5 +1,4 @@
-                                                #NAME:LOKESHVARAN  S
-                                                #REG NO:212223040105
+
 
 # EX-01 Mean and variance of a discrete  distribution
 
